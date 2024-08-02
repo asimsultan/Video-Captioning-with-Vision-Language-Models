@@ -1,0 +1,7 @@
+
+video_path,input_text,target_caption
+"video_samples/video1.mp4","A person is walking in the park.","A person walks in the park."
+"video_samples/video2.mp4","A dog is playing with a ball.","A dog plays with a ball."
+"video_samples/video3.mp4","A group of people are having a picnic.","People have a picnic."
+"video_samples/video4.mp4","A car is driving down the street.","A car drives down the street."
+"video_samples/video5.mp4","A cat is climbing a tree.","A cat climbs a tree."
